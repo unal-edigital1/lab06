@@ -1,2 +1,2 @@
-# WP01
- 1 entrega de proyecto 
+# LAB06
+ vga 
